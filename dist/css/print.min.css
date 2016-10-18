@@ -7,7 +7,7 @@ li,ul{list-style:none}
 a{text-decoration:none}
 aside{position:fixed;right:0;top:30%}
 aside li{margin-bottom:10px;padding:10px;-webkit-border-radius:10px 0 0 10px;border-radius:10px 0 0 10px}
-.container{width:1260px;height:1440px;position:relative}
+.container{width:1260px;height:1564px;position:relative}
 .sidebar{position:absolute;top:0;bottom:0;width:450px;padding:25px;line-height:1.5;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 .skill,.skill-name{position:relative}
 .title{margin:25px 0 20px}
@@ -23,12 +23,12 @@ h2{font-size:16px}
 .skill-bar-wrap{height:17px;width:150px;background:#00796b;display:inline-block;-webkit-border-radius:20px;border-radius:20px}
 .skill-bar{height:17px;background:#fff;-webkit-border-radius:20px 0 0 20px;border-radius:20px 0 0 20px}
 .note{text-indent:2em;margin-top:100px}
-.qr{position:absolute;top:1094px;width:400px}
+.qr{position:absolute;top:1328px;width:400px}
 .main,h4{position:relative}
 .qr-in{margin:0 auto}
 .qr-in img{width:200px}
 .qr-in a{color:#004d40}
-.main{left:450px;width:810px;height:1440px;padding:15px 20px 0;background:#f0f2f1;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+.main{left:450px;width:810px;height:1564px;padding:15px 20px 0;background:#f0f2f1;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 .main a{color:#4db6ac}
 .main-info>li{padding-top:10px}
 .main-info dt{font-size:26px;color:#00796b;line-height:30px;border-bottom:1px solid #00796b;margin:0 0 15px -5px}
