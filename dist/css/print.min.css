@@ -23,7 +23,7 @@ h2{font-size:16px}
 .skill-bar-wrap{height:17px;width:150px;background:#00796b;display:inline-block;-webkit-border-radius:20px;border-radius:20px}
 .skill-bar{height:17px;background:#fff;-webkit-border-radius:20px 0 0 20px;border-radius:20px 0 0 20px}
 .note{text-indent:2em;margin-top:100px}
-.qr{position:absolute;bottom:40px;width:400px}
+.qr{position:absolute;bottom:502px;width:400px}
 .main,h4{position:relative}
 .qr-in{margin:0 auto}
 .qr-in img{width:200px}
