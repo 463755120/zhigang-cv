@@ -2,7 +2,7 @@
 .title,footer p{text-align:center}
 *{margin:0;padding:0}
 body{background:#e0e0e0;font-family:'Helvetica Neue',Helvetica,'Lucida Grande',Arial,'Hiragino Sans GB',微软雅黑,'WenQuanYi Micro Hei',STHeiti,SimSun,sans-serif;min-width:1080px}
-.sidebar,aside li{background:#00bfa5}
+.sidebar,aside li{background:#3399cc}
 li,ul{list-style:none}
 a{text-decoration:none}
 dd,dt,h1,h2,h3,h4,h5,p{cursor:default}
